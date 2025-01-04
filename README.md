@@ -13,6 +13,8 @@ pip install -r requirements.txt
 
 ![output1](https://github.com/user-attachments/assets/0fc57e5e-1ef2-4458-bbc0-3da98c844ffc)
 
+# Classification report
+
 <img width="797" alt="Screenshot 2025-01-05 at 12 51 32 AM" src="https://github.com/user-attachments/assets/feecb2f3-5b64-4bf6-ac9f-472de53905db" />
 
 
